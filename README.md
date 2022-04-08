@@ -11,3 +11,6 @@ Now the user needs to enter the total number of tickets and enter the details ac
 Finally it will print the Summary of both flight and individual.
 If the user needs to cancel the tickets, they need to enter 2. They will be asked with seat number and ticket class.
 This will delete the seat accordingly.
+
+
+P.S. OPEN MASTER BRANCH TO VIEW THE FILES
